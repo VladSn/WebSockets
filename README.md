@@ -1,2 +1,2 @@
 # WebSockets
-Chat app
+Chat app. Learning project.
